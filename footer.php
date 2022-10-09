@@ -53,7 +53,7 @@
             </p>
         </footer>
     </div>
-    <script src="./assets/js/theme-common.js"></script>
+    <script src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/js/theme-common.js"></script>
 </body>
 
 </html>
